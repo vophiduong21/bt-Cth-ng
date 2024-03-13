@@ -1,0 +1,7 @@
+E:\GitHub\bt-Cth-ng\sv_khoa\sv_khoa\obj\Debug\sv_khoa.csproj.AssemblyReference.cache
+E:\GitHub\bt-Cth-ng\sv_khoa\sv_khoa\obj\Debug\sv_khoa.csproj.CoreCompileInputs.cache
+E:\GitHub\bt-Cth-ng\sv_khoa\sv_khoa\bin\Debug\sv_khoa.exe.config
+E:\GitHub\bt-Cth-ng\sv_khoa\sv_khoa\bin\Debug\sv_khoa.exe
+E:\GitHub\bt-Cth-ng\sv_khoa\sv_khoa\bin\Debug\sv_khoa.pdb
+E:\GitHub\bt-Cth-ng\sv_khoa\sv_khoa\obj\Debug\sv_khoa.exe
+E:\GitHub\bt-Cth-ng\sv_khoa\sv_khoa\obj\Debug\sv_khoa.pdb
