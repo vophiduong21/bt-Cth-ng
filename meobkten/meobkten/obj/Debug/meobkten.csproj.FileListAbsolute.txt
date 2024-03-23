@@ -1,0 +1,7 @@
+E:\GitHub\bt-Cth-ng\meobkten\meobkten\bin\Debug\meobkten.exe.config
+E:\GitHub\bt-Cth-ng\meobkten\meobkten\bin\Debug\meobkten.exe
+E:\GitHub\bt-Cth-ng\meobkten\meobkten\bin\Debug\meobkten.pdb
+E:\GitHub\bt-Cth-ng\meobkten\meobkten\obj\Debug\meobkten.csproj.AssemblyReference.cache
+E:\GitHub\bt-Cth-ng\meobkten\meobkten\obj\Debug\meobkten.csproj.CoreCompileInputs.cache
+E:\GitHub\bt-Cth-ng\meobkten\meobkten\obj\Debug\meobkten.exe
+E:\GitHub\bt-Cth-ng\meobkten\meobkten\obj\Debug\meobkten.pdb

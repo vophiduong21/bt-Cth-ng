@@ -1,0 +1,7 @@
+E:\GitHub\bt-Cth-ng\bt404\bt404\bin\Debug\bt404.exe.config
+E:\GitHub\bt-Cth-ng\bt404\bt404\bin\Debug\bt404.exe
+E:\GitHub\bt-Cth-ng\bt404\bt404\bin\Debug\bt404.pdb
+E:\GitHub\bt-Cth-ng\bt404\bt404\obj\Debug\bt404.csproj.AssemblyReference.cache
+E:\GitHub\bt-Cth-ng\bt404\bt404\obj\Debug\bt404.csproj.CoreCompileInputs.cache
+E:\GitHub\bt-Cth-ng\bt404\bt404\obj\Debug\bt404.exe
+E:\GitHub\bt-Cth-ng\bt404\bt404\obj\Debug\bt404.pdb
