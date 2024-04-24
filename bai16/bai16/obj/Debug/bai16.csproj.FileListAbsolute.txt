@@ -1,0 +1,7 @@
+E:\GitHub\bt-Cth-ng\bai16\bai16\bin\Debug\bai16.exe.config
+E:\GitHub\bt-Cth-ng\bai16\bai16\bin\Debug\bai16.exe
+E:\GitHub\bt-Cth-ng\bai16\bai16\bin\Debug\bai16.pdb
+E:\GitHub\bt-Cth-ng\bai16\bai16\obj\Debug\bai16.csproj.AssemblyReference.cache
+E:\GitHub\bt-Cth-ng\bai16\bai16\obj\Debug\bai16.csproj.CoreCompileInputs.cache
+E:\GitHub\bt-Cth-ng\bai16\bai16\obj\Debug\bai16.exe
+E:\GitHub\bt-Cth-ng\bai16\bai16\obj\Debug\bai16.pdb

@@ -1,0 +1,7 @@
+E:\GitHub\bt-Cth-ng\ktr gk\ktr gk\bin\Debug\ktr gk.exe.config
+E:\GitHub\bt-Cth-ng\ktr gk\ktr gk\bin\Debug\ktr gk.exe
+E:\GitHub\bt-Cth-ng\ktr gk\ktr gk\bin\Debug\ktr gk.pdb
+E:\GitHub\bt-Cth-ng\ktr gk\ktr gk\obj\Debug\ktr gk.csproj.AssemblyReference.cache
+E:\GitHub\bt-Cth-ng\ktr gk\ktr gk\obj\Debug\ktr gk.csproj.CoreCompileInputs.cache
+E:\GitHub\bt-Cth-ng\ktr gk\ktr gk\obj\Debug\ktr gk.exe
+E:\GitHub\bt-Cth-ng\ktr gk\ktr gk\obj\Debug\ktr gk.pdb
